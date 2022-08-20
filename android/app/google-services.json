@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770409681830",
+    "project_id": "emailpassauth-3791e",
+    "storage_bucket": "emailpassauth-3791e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770409681830:android:3bedd6bf5e9f24cabcf567",
+        "android_client_info": {
+          "package_name": "com.example.firelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770409681830-btoun7ffgb3cu9qt3orteml2ejf8iug7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Gq3qKPY-fA7SaqzrIdESomR1uttAASo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770409681830-btoun7ffgb3cu9qt3orteml2ejf8iug7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
